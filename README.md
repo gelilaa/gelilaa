@@ -14,15 +14,12 @@ Table of contents
 6. Create a table of contents
 7. Write more files (linked to the README)
 
-Here's [a link to something else][1].
+[file1](./file1.md)
 
-Here's [yet another link][another-link].
-
-And now back to [the first link][1].
 
 - unordered list
 
-1. order list....hahahahaha
+1. order list
    Images
    Inline image link : ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
@@ -31,4 +28,4 @@ Reference link : ![The founding father][father]
 [father]: https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg
  [1]:www.github.com
 [another-link]: https://www.google.be/?&bih=610&biw=1280&safe=active&hl=en
-[item 1](./file1.md)
+
